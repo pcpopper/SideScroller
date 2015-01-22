@@ -1,0 +1,87 @@
+fileFormatVersion: 2
+guid: aa44ac3abfdf4bb4185b1fcbd9e01b3a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: stake1b_col
+    100002: stake1a_col
+    100004: stake1a
+    100006: //RootNode
+    100008: base2
+    100010: stake1b
+    400000: stake1b_col
+    400002: stake1a_col
+    400004: stake1a
+    400006: //RootNode
+    400008: base2
+    400010: stake1b
+    2300000: stake1b_col
+    2300002: stake1a_col
+    2300004: stake1a
+    2300006: base2
+    2300008: stake1b
+    3300000: stake1b_col
+    3300002: stake1a_col
+    3300004: stake1a
+    3300006: base2
+    3300008: stake1b
+    4300000: stake1b
+    4300002: stake1a
+    4300004: base2
+    4300006: stake1a_col
+    4300008: stake1b_col
+    7400000: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
